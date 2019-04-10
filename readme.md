@@ -8,6 +8,10 @@ Do you use long cables with this adapter, MAX 1M long.
 
 Pin nº 2 must be cutted out on the 1x20 pin row (there is a mark on the pcb that says NC).
 
+This design is based on the schematic shared on this page. https://ist.uwaterloo.ca/~schepers/MJK/c128_keyboard.html
+
+Originally tested by @Cutristieso using a protoboard.
+
 # Images
 
 <img src="https://github.com/arananet/C128D-to-C64-KB/blob/master/img/top.png?raw=true" width="700"/>
