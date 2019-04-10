@@ -4,7 +4,7 @@ This tiny adapter allows to plug your C64 keyboard on a C128D computer. There is
 
 This is a work in progress, several testing must be made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
 
-Do you use long cables with this adapter, MAX 1M long.
+Do NOT use long cables with this adapter, MAX 1M long.
 
 Pin nº 2 must be cutted out on the 1x20 pin row (there is a mark on the pcb that says NC).
 
