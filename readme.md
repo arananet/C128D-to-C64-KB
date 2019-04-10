@@ -1,10 +1,12 @@
-This tiny adapter allows to plug your C64 keyboard on a C128D computer.
+This tiny adapter allows to plug your C64 keyboard on a C128D computer. There is an additional jumper to choose between 40/80 columns.
 
 # Notes
 
 This is a work in progress, several testing must be made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
 
 Do you use long cables with this adapter, MAX 1M long.
+
+Pin nº 2 must be cutted out on the 1x20 pin row (there is a mark on the pcb that says NC).
 
 # Images
 
@@ -13,9 +15,12 @@ Do you use long cables with this adapter, MAX 1M long.
 
 # Parts required
 
-1 PCB.
-1 DB25 MALE.
-1 2.54 20 position pin row.
+| QUANTITY      | PART                      |
+| ------------- | -------------             |
+| 1             | PCB                       |
+| 1             | DB25 MALE                 |
+| 1             | 1x20 2.54 pin row         |
+| 1             | 1x2 2.54 pin row + jumper |
 
 # Updates
 10/04/2019 Initial release.
