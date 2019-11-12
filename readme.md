@@ -27,7 +27,22 @@ Originally tested by @Cutristieso using a protoboard.
 | 1             | 1x2 2.54 pin row + jumper |
 
 # Updates
+
+12/11/2019: Updated license stuff (I usually not do this but I must start it with this).
 10/04/2019 Initial release.
+
+# License
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 # Feedback
 If you find any error on this description, please drop me an email to info@arananet.net or you could also buy me a beer :p
