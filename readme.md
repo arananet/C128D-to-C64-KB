@@ -12,6 +12,9 @@ This design is based on the schematic shared on this page. https://ist.uwaterloo
 
 Originally tested by @Cutristieso using a protoboard.
 
+If you like the project or want to support it, you can buy me a beer or a KO-FI :) 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51MPWG)
+
 # Images
 
 <img src="https://github.com/arananet/C128D-to-C64-KB/blob/master/img/top.png?raw=true" width="700"/>
